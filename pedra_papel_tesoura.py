@@ -1,3 +1,6 @@
+# Autor: Yone Gomes
+# Data: 20/03/2024
+
 import random
 
 def jogar():

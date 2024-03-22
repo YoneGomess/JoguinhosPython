@@ -1,3 +1,6 @@
+# Autor: Yone Gomes
+# Data: 20/03/2024
+
 import tkinter as tk
 from tkinter import messagebox
 

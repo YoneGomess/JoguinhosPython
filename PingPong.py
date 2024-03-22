@@ -1,3 +1,6 @@
+# Autor: Yone Gomes
+# Data: 22/03/2024
+
 import pygame
 import sys
 import tkinter as tk
